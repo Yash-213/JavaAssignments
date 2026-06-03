@@ -1,0 +1,16 @@
+DSA/Algo: CLRS (selectively) + a good PYQ bank.
+
+OS: Galvin; focus on processes/CPU scheduling, synchronization, memory/VM, file systems.
+
+DBMS: Korth; SQL practice + transactions/indexing/normalization.
+
+CN: Tanenbaum; transport (TCP), network layer (IP/routing), data link (ARQ).
+
+COA/Digital: Hamacher + Mano basics; ISA, pipelining, cache.
+
+TOC/Compiler: Linz + Dragon book (parsing, DFA/NFA, CFLs, TM basics, code gen/optimization).
+
+Math: Rosen (Discrete), standard notes for LA/Calc/Probability.
+
+GA: Daily short practice (RC, basic quant, data interpretation).
+eiq-dzox-jvj
