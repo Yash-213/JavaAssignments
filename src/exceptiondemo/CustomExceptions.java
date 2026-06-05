@@ -1,5 +1,6 @@
 package exceptiondemo;
 
+@SuppressWarnings("serial")
 class InvalidAgeException extends Exception {
     //constructor
 	InvalidAgeException(String msg) {
