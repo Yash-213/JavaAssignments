@@ -1,5 +1,13 @@
-.metadata/
-.classpath
-.project
+# Eclipse / STS
 .settings/
+.metadata/
+.project
+.classpath
+
+# Build output
 bin/
+target/
+out/
+
+# Server runtime
+Servers/
