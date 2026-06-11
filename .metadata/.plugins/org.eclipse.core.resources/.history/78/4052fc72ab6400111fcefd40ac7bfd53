@@ -1,5 +1,0 @@
-package mydemonew;
-
-public abstract class BankAbstract {
-	abstract double rate();
-}
