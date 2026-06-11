@@ -1,0 +1,7 @@
+package bankInterestRate;
+
+public class SBIDemo extends BankAbstract{
+	double rate() {
+		return 23;
+	}
+}

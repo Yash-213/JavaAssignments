@@ -1,0 +1,12 @@
+package mydemonew;
+
+public class Main {
+	public static void main(String[] args) {
+		SBIDemo sbiDemo = new SBIDemo();
+		System.out.println("SBI: " + sbiDemo.rate());
+		ICIC icic = new ICIC();
+		System.out.println("ICICI: " +icic.rate());
+		PBNB pbnb = new PBNB();
+		System.out.println("PBNB: " +pbnb.rate());
+	}
+}
