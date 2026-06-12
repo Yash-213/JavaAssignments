@@ -1,5 +1,5 @@
 package employeeapplication;
 
-public class InsertEmp {
-
+public class InsertEmp{
+	
 }
